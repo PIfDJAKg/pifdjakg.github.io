@@ -1,0 +1,31 @@
+kursiv {
+    font-style: italic;
+}   
+
+* {
+    margin: 0px;
+}
+
+.container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    height: max-content;
+    background-color: rgb(132, 134, 230);
+}
+
+.cont-p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 2px;
+    font-size: 24px;
+    background-color: rgb(132, 134, 230);
+}
+
+.main {
+    text-align: center;
+}
